@@ -1,4 +1,5 @@
-﻿Todo list for my boilerplate
+﻿Todo list for my boilerplate. 
+This is an ongoing work in progress and gets updated regularly. Most of them are just for personal notes and reminders. If anyone has any suggestions or features that they would like to see, please let me know.
 
 
 Templates to make
@@ -11,11 +12,7 @@ Templates to make
 - divider
 
 
-
-
-high level things
-
-
+High level features
 - navigational system - super fish or whatever
 - hover over tool tips
 - add in jquery tricks such as (hover over button tricks)
@@ -31,11 +28,7 @@ high level things
 - regex checker on keyup
 
 
-
-
-js specific things
-
-
+JavaScript specific features
 - js tabs - find best one, jquery, bootstrap, etc
 - focus/blur/placeholder fixes for legacy browsers, password fixes
 - other useful js tricks (event bubbling fix, think of more)
@@ -43,33 +36,21 @@ js specific things
 - ajax request
 
 
-
-
-cross browser things
-
-
+Cross browser issues
 - html5 fixes, shims
 - modernizer
 - iefixes
 
 
-
-
-css things
+CSS features
 
 
 - add in common popular css effects (text shadows, rounded corners, insets, background blurs)
 
 
-
-
-server connection issues
-
-
+Server Connections
 - xmlhttprequest (js)
 
 
-
-
-bells and whistles list
+Other Bells and Whistles
 - coming soon

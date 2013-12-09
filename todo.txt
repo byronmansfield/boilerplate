@@ -1,60 +1,75 @@
+﻿Todo list for my boilerplate
 
-templates to make
 
-github things
+Templates to make
+- header
+- main navigation
+- head
+- cycle banner
+- side column
+- login
+- divider
 
-- get github connected set up with this new boilerplate
-- make a github todo list for this template set
+
 
 
 high level things
 
+
 - navigational system - super fish or whatever
 - hover over tool tips
 - add in jquery tricks such as (hover over button tricks)
-- login system (make sure with email active link, maybe accountify)
+- login system (make sure with email active link, maybe accountify, regex checker)
 - contact form
-- slideshow
+- gallery slideshow
 - with bootstrap features and already hooked up and utilized
 - responsive version (side column)
-- php templates version
 - angular templates version
-- gallery
+- cycle home banner
+- search bar
 - all the common 404, 505 pages, etc
 - regex checker on keyup
 
 
+
+
 js specific things
 
-- js tabs - find best one, jquery or whatever
-- focus/blur/placeholder fixes
-- other useful js tricks (event bubbling fix, )
+
+- js tabs - find best one, jquery, bootstrap, etc
+- focus/blur/placeholder fixes for legacy browsers, password fixes
+- other useful js tricks (event bubbling fix, think of more)
 - jquery upload, jquery form, submit stuff
 - ajax request
 
 
+
+
 cross browser things
 
-- html5 fixes
+
+- html5 fixes, shims
 - modernizer
 - iefixes
 
 
+
+
 css things
+
 
 - add in common popular css effects (text shadows, rounded corners, insets, background blurs)
 
 
+
+
 server connection issues
 
-- database hookup (php)
+
 - xmlhttprequest (js)
 
 
-bells and whistles
 
 
-
-
-
-
+bells and whistles list
+- coming soon

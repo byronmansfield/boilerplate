@@ -1,0 +1,60 @@
+
+templates to make
+
+github things
+
+- get github connected set up with this new boilerplate
+- make a github todo list for this template set
+
+
+high level things
+
+- navigational system - super fish or whatever
+- hover over tool tips
+- add in jquery tricks such as (hover over button tricks)
+- login system (make sure with email active link, maybe accountify)
+- contact form
+- slideshow
+- with bootstrap features and already hooked up and utilized
+- responsive version (side column)
+- php templates version
+- angular templates version
+- gallery
+- all the common 404, 505 pages, etc
+- regex checker on keyup
+
+
+js specific things
+
+- js tabs - find best one, jquery or whatever
+- focus/blur/placeholder fixes
+- other useful js tricks (event bubbling fix, )
+- jquery upload, jquery form, submit stuff
+- ajax request
+
+
+cross browser things
+
+- html5 fixes
+- modernizer
+- iefixes
+
+
+css things
+
+- add in common popular css effects (text shadows, rounded corners, insets, background blurs)
+
+
+server connection issues
+
+- database hookup (php)
+- xmlhttprequest (js)
+
+
+bells and whistles
+
+
+
+
+
+

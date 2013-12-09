@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="ie lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="ie ie7 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="ie ie8 lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html class="ie ie9"><![endif]-->
+<!--[if !IE]><!-->     <html class="not-ie"><!--<![endif]-->
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="title" content="My Title">
+  <meta name="description" content="My Description">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <link rel="shortcut icon" href="http://byronmansfield.com/faviocon.ico">
+
+	<title>My Titiel</title>
+  <!--[Styles]-->
+	<link rel="stylesheet" type="text/css" media="screen" href="css/styles.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap-responsive.css">
+
+  <!--[Scripts]-->
+
+  <!--[if lt IE 9]>
+  <script src="js/html5shim.js"></script>
+  <script src="js/IE9.js"></script>
+  <![endif]-->
+
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+
+</head>
+
+<body>
+
+	<div id="container">
+
+	  <header id="header">
+		  <section>
+			  <div class="title pull-left">
+			    <figure><a href="/">Title</a></figure>
+			    <figcaption>Tagline</figcaption>
+			  </div>
+		  </section>
+	  </header>
+
+    <!--[MAIN NAVIGATION]-->
+    <nav>
+      <ul>
+          <li><a href="#">Home</a></li>
+        </ul>
+    </nav>
+
+    <div id="main" class="clearfix">
+
+      <div id="content" class="clearfix">
+
+        <p>Hello World</p>
+
+      </div>  <!--[END CONTENT]-->
+
+    </div>  <!--[END MAIN]-->
+
+    <footer id="footer">
+  	  <section>
+  		  <ul>
+  			  <li><a href="/">Home</a></li>
+  		  </ul>
+  	  </section>
+    </footer>
+
+  </div>  <!--[END CONTAINER]-->
+
+  <!--[EXTRA SCRIPTS]-->
+  <script type="text/javascript" src="js/scripts.js"></script>
+
+</body>
+</html>

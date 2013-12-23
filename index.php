@@ -6,29 +6,8 @@
 <!--[if !IE]><!-->     <html class="not-ie"><!--<![endif]-->
 <head>
 
-  <meta charset="utf-8">
-  <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="title" content="My Title">
-  <meta name="description" content="My Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-  <link rel="shortcut icon" href="http://byronmansfield.com/faviocon.ico">
-
-	<title>My Titiel</title>
-  <!--[Styles]-->
-	<link rel="stylesheet" type="text/css" media="screen" href="css/styles.css">
-	<link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.css">
-	<link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap-responsive.css">
-
-  <!--[Scripts]-->
-
-  <!--[if lt IE 9]>
-  <script src="js/html5shim.js"></script>
-  <script src="js/IE9.js"></script>
-  <![endif]-->
-
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-	<script type="text/javascript" src="js/bootstrap.js"></script>
+  <!-- [HEAD TEMPLATE] -->
+  <?php include 'templates/head.php'; ?>
 
 </head>
 
@@ -36,21 +15,8 @@
 
 	<div id="container">
 
-	  <header id="header">
-		  <section>
-			  <div class="title pull-left">
-			    <figure><a href="/">Title</a></figure>
-			    <figcaption>Tagline</figcaption>
-			  </div>
-		  </section>
-	  </header>
-
-    <!--[MAIN NAVIGATION]-->
-    <nav>
-      <ul>
-          <li><a href="#">Home</a></li>
-        </ul>
-    </nav>
+	  <!-- [HEADER TEMPLATE] -->
+    <?php include 'templates/header.php'; ?>
 
     <div id="main" class="clearfix">
 
@@ -58,22 +24,18 @@
 
         <p>Hello World</p>
 
-      </div>  <!--[END CONTENT]-->
+      </div>  <!-- [END CONTENT] -->
 
-    </div>  <!--[END MAIN]-->
+    </div>  <!-- [END MAIN] -->
 
-    <footer id="footer">
-  	  <section>
-  		  <ul>
-  			  <li><a href="/">Home</a></li>
-  		  </ul>
-  	  </section>
-    </footer>
+    <!-- [FOOTER TEMPLATE] -->
+    <?php include 'templates/footer.html'; ?>
 
-  </div>  <!--[END CONTAINER]-->
+  </div>  <!-- [END CONTAINER] -->
 
-  <!--[EXTRA SCRIPTS]-->
+  <!-- [EXTRA SCRIPTS] -->
   <script type="text/javascript" src="js/scripts.js"></script>
+  <script type="text/javascript" src="js/tabs.js"></script>
 
 </body>
 </html>

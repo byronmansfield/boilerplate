@@ -3,9 +3,7 @@ This is an ongoing work in progress and gets updated regularly. Most of them are
 
 
 Templates to make
-- header
-- main navigation
-- head
+- contact page/form - gonna need a email.php file
 - cycle banner
 - side column
 - login
@@ -13,13 +11,13 @@ Templates to make
 
 
 High level features
-- navigational system - super fish or whatever
+- navigational system - needs to be more complete with super fish or whatever
 - hover over tool tips
 - add in jquery tricks such as (hover over button tricks)
 - login system (make sure with email active link, maybe accountify, regex checker)
 - contact form
 - gallery slideshow
-- with bootstrap features and already hooked up and utilized
+- bootstrap features and already hooked up and utilized
 - responsive version (side column)
 - angular templates version
 - cycle home banner
@@ -31,14 +29,13 @@ High level features
 JavaScript specific features
 - js tabs - find best one, jquery, bootstrap, etc
 - focus/blur/placeholder fixes for legacy browsers, password fixes
-- other useful js tricks (event bubbling fix, think of more)
+- other useful js tricks (event bubbling fix, need to think of more)
 - jquery upload, jquery form, submit stuff
 - ajax request
 
 
 Cross browser issues
 - html5 fixes, shims
-- modernizer
 - iefixes
 
 
@@ -54,3 +51,8 @@ Server Connections
 
 Other Bells and Whistles
 - coming soon
+
+
+Documentation
+- Document what needs to be changed for your domain
+- Document where to download the resources (jquery plugins etc)
